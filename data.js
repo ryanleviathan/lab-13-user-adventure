@@ -23,7 +23,7 @@ export default [
             id: 'run',
             description: 'Run!!!!!',
             result: `
-            You perceive the threat, turning to run away. Were you aware how thouroughly the sandworm can feel vibrations through the soil? As you run for nearby rock outcropping, the worm chases you, catching up quickly. As you leap towards the rocks, the worm throws you up into the sky. You land hard on the outcropping, hurt badly and bleeding, but miraculously still alive. You find a skeleton and some gold. How long has it been there?
+            You perceive the threat, turning to run away. Were you aware how thouroughly the sandworm can feel vibrations through the sand? As you run for nearby rock outcropping, the worm chases you, catching up quickly. As you leap towards the rocks, the worm throws you up into the sky. You land hard on the outcropping, hurt badly and bleeding, but miraculously still alive. You find a skeleton and some gold. How long has it been there?
         `,
             hp: -30,
             gold: 35
@@ -68,7 +68,7 @@ export default [
             id: 'talk',
             description: 'Maybe they can be reasoned with.',
             result: `
-            You've seen worse. Rather than start a fight, you strike up a converstaion, albeit from a distance. They tell you that they've been trying to make friends with the villagers and that they don't mean anyone any harm. They just want more friends. You have a long dialogue about fear, judgment, and prejudice and feel for them. You suggest they look for other friendly "monsters". You wish humans had more love in their hearts. The monsters than you and reward you for your kindness.
+            You've seen worse. Rather than start a fight, you strike up a converstaion, albeit from a distance. They tell you that they've been trying to make friends with the villagers and that they don't mean anyone any harm. They just want more friends. You have a long dialogue about fear, judgment, and prejudice and feel for them. You suggest they look for other friendly "monsters". You wish humans had more love in their hearts. The monsters thank you and reward you for your kindness.
         `,
             hp: 0,
             gold: 100

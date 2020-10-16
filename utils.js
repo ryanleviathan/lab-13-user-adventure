@@ -1,4 +1,4 @@
-const USER = 'USER';
+export const USER = 'USER';
 
 export function saveUser(user) {
     const userAsString = JSON.stringify(user);
