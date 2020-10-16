@@ -39,7 +39,7 @@ export default [
     },
     {
         id: 'ambush',
-        title: 'A Fightening Encounter',
+        title: 'A Fightening Village',
         map: {
             top: '17%',
             left: '37%'
